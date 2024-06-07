@@ -4,11 +4,11 @@ Contagem de Doces Mediante a Visão Computacional.
 Professor:
 Leonardo Pio Vasconcelos​
 
-Grupo:
-Renan dos Santos Belchior​
-Jhonatan Gonçalves Antunes​
-Joubert Lima Correa de Oliveira​
-Matheus Silva Fonseca Rodrigues​
+Grupo:<br>
+Renan dos Santos Belchior​<br>
+Jhonatan Gonçalves Antunes​<br>
+Joubert Lima Correa de Oliveira​<br>
+Matheus Silva Fonseca Rodrigues​<br>
 
 Tecnologias Utilizadas:
 Keras.
