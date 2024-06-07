@@ -1,4 +1,4 @@
-Tema do Trabalho:
+Tema do Trabalho:<br>
 Contagem de Doces Mediante a Visão Computacional.
 
 Professor:
